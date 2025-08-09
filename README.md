@@ -42,6 +42,6 @@
 
 ###
 
-<h3 align="left">🗂️ My Projects:</h3>
+<h3 align="left">🗂️ Checkout my repositories if you're intrested in seeing writeups or some QOL scripts.</h3>
 
 ###
