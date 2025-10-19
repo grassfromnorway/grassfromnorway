@@ -16,11 +16,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
-<p align="left">I'm grassfromnorway, a not so Norwegian originating from Poland.<br>- 🔭 I’m currently studying in a 5 year IT collage.<br>- 📚 I study redteaming & blueteaming in my free time, aswell as writing relevant writeups and projects.<br>- ⚡ When im not working on my CyberSec, I typically program.</p>
+<p align="left">I'm grassfromnorway, a not so Pole originating from Norway.<br>- I’m currently studying in a 5 year IT oriented highschool.<br>- I study redteaming & blueteaming in my free time, aswell as writing relevant writeups and projects.<br>- When im not working on my CyberSec, I typically program.</p>
 
 ###
 
@@ -42,6 +42,6 @@
 
 ###
 
-<h3 align="left">🗂️ Checkout my repositories if you're intrested in seeing writeups or some QOL scripts.</h3>
+<h3 align="left">Checkout my repositories if you're intrested in seeing writeups or projects im working on.</h3>
 
 ###
