@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm grassfromnorway, a not so Pole originating from Norway.<br>- I’m currently studying in a 5 year IT oriented highschool.<br>- I study redteaming & blueteaming in my free time, aswell as writing relevant writeups and projects.<br>- When im not working on my CyberSec, I typically program.</p>
+<p align="left">I'm grassfromnorway, a not so Pole originating from Norway.<br>- I’m currently studying in a 5 year IT oriented highschool.<br>- I study redteaming & blueteaming in my free time, aswell as writing relevant writeups (atleast trying to) and doing projects.</p>
 
 ###
 
