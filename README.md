@@ -20,8 +20,7 @@
 
 ###
 
-<p align="left">I'm grassfromnorway, a not so Pole originating from Norway.<br>- I’m currently studying in a 5 year IT oriented highschool.<br>- I study redteaming & blueteaming in my free time, aswell as writing relevant writeups (atleast trying to) and doing projects. <br>- I make projects too, both electronics and swe but i have a knack for coming up with ten more projects each time i start one, so good luck finding a finished one,</p>
-
+<p align="left">I'm grassfromnorway.<br>- I’m currently studying at a highschool.<br>- My hobbies / interests are in cybersecurity, embedded, electronics and low-level programming.
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -33,8 +32,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
@@ -42,6 +39,6 @@
 
 ###
 
-<h3 align="left">Checkout my repositories if you're intrested in seeing writeups or projects im working on.</h3>
+<h3 align="left">Check out some of my Repos!</h3>
 
 ###
