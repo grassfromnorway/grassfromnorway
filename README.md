@@ -16,18 +16,18 @@
 
 ###
 
-<h3 align="left">About Me</h3>
+<h3 align="center">About Me</h3>
 
 ###
 
-<p align="left">I'm grassfromnorway.<br>- I’m currently studying at a highschool.<br>- My hobbies / interests are in cybersecurity, embedded, electronics and low-level programming.
+<p align="center">I'm grassfromnorway.<br>- I’m currently studying at a highschool.<br>- My hobbies / interests are in cybersecurity, embedded, electronics and low-level programming.
+
+
+<h3 align="center">🛠 Language and tools</h3>
+
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -39,6 +39,6 @@
 
 ###
 
-<h3 align="left">Checkout some of my repositories.</h3>
+<h3 align="center">Checkout some of my repositories.</h3>
 
 ###
