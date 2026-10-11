@@ -1,44 +1,20 @@
-<div align="center">
-  <a href="https://discordapp.com/users/700790168793251950" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://tryhackme.com/p/grassfromnorway" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  </a>
-  <a href="grassfromnorway@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+# Hi there!<br>I'm grassfromnorway.
+---
 
-###
+I'm interested in **programming**, **cybersecurity**, **embedded dev**, **electronics**, home labbing and generally most things computer related.<br><br>
 
-<h1 align="center">What's up?</h1>
+Technologies I'm comfortable using;
 
-###
+[![C++ Badge](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=00599C)](#) [![CMake Badge](https://img.shields.io/badge/-CMake-DC382D?style=for-the-badge&labelColor=black&logo=cmake&logoColor=DC382D)](#) [![Espressif Badge](https://img.shields.io/badge/-Espressif-E7352C?style=for-the-badge&labelColor=black&logo=espressif&logoColor=E7352C)](#) [![NixOS Badge](https://img.shields.io/badge/-NixOS-5277C3?style=for-the-badge&labelColor=black&logo=nixos&logoColor=5277C3)](#) [![HTB Badge](https://img.shields.io/badge/-HTB-9FEF00?style=for-the-badge&labelColor=black&logo=hackthebox&logoColor=9FEF00)](#) [![THM Badge](https://img.shields.io/badge/-THM-88CC14?style=for-the-badge&labelColor=black&logo=tryhackme&logoColor=88CC14)](#)
 
-<h3 align="center">About Me</h3>
+My socials if you want to reach out (website isnt here yet..);
 
-###
+[![Mail Badge](https://img.shields.io/badge/-grassfromnorway-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:grassfromnorway@gmail.com)
+[![Website](https://img.shields.io/badge/-Website-214E34?style=flat&logo=htmx&logoColor=white)](https://example.com)
 
-<p align="center">I'm grassfromnorway.<br>- I’m currently studying at a highschool.<br>- My hobbies / interests are in cybersecurity, embedded, electronics and low-level programming.
+---
 
+![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg)
 
-<h3 align="center">🛠 Language and tools</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-</div>
-
-###
-
-<h3 align="center">Checkout some of my repositories.</h3>
-
-###
+[![](https://img.shields.io/github/followers/grassfromnorway?label=Follow&style=social)](https://github.com/sidharthify)
+[![](https://img.shields.io/github/stars/grassfromnorway?style=social)](https://github.com/sidharthify?tab=stars)
