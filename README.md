@@ -1,5 +1,4 @@
 # Hi there!<br>I'm grassfromnorway.
----
 
 I'm interested in **programming**, **cybersecurity**, **embedded dev**, **electronics**, home labbing and generally most things computer related.<br><br>
 
